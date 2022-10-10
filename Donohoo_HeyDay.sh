@@ -3,7 +3,7 @@
 # Hey Day Script
 
 # Using echo have the user enter their name.
-echo "Enter your name"
+echo "Enter your name here."
 
 # Read will assign the user name to the variable name.
 read Name 

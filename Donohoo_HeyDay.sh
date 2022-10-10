@@ -8,5 +8,5 @@ echo "Enter your name here."
 # Read will assign the user name to the variable name.
 read Name 
 
-#print statement to user
+# Print a Hey Day statement using the inputted user name.
 echo "Hey, $Name! Welcome to Auburn University Hey Day!"
